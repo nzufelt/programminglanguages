@@ -1,0 +1,21 @@
+
+
+.infoc, .infoasm, .infojava, .infobrain, .infoscratch, .infojavascript, .inforust {
+  background-color: white;
+  visibility: hidden;
+  position: absolute;
+  width: 250px;
+  border: 1px solid #696969;
+  font-size: 14px;
+  text-align: justify;
+  font-family: sans-serif;
+  padding: 30px;
+  color: #696969;
+  line-height: 25px;
+}
+
+.important{
+  font-size: 18px;
+  color: black;
+  font-weight: bold;
+}
