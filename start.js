@@ -10,4 +10,4 @@ $(function(){
 
 	});
 });
-$('body').on('click', function(){ window.location.href = "C:/Users/Liv/Desktop/PA Andover/Term 2/website1/about.html"});
+$('body').on('click', function(){ window.location.href = "about.html"});
